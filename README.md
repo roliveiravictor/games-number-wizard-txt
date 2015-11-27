@@ -15,7 +15,7 @@ IDE: MonoDevelop
 
    * N/A
 
-### Contribution guidelines ### 
+### Contribution guidelines ###
 
    * Tutorial from Ben Tristem: https://www.udemy.com/unitycourse/
 
