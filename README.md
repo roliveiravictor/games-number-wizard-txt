@@ -1,26 +1,28 @@
+# README #
+
 Number Wizard - A text console game.
 
 Engine: Unity3D 4.6.9 
 Programming Language: C# 
 IDE: MonoDevelop
 
-What is this repository for?
+### What is this repository for? ###
 
-    This is a backup code of my number wizard game
-    Final version
+   * This is a backup code of my number wizard game
+   * Final version
 
-How do I get set up?
+### How do I get set up? ###
 
-    N/A
+   * N/A
 
-Contribution guidelines
+### Contribution guidelines ### 
 
-    Tutorial from Ben Tristem: https://www.udemy.com/unitycourse/
+   * Tutorial from Ben Tristem: https://www.udemy.com/unitycourse/
 
-Who do I talk to?
+### Who do I talk to? ###
 
-    roliveira.victor@gmail.com
+   * roliveira.victor@gmail.com
 
-Youtube
+### Youtube ###
 
-    Channel: https://www.youtube.com/channel/UC_rQ1n5XXcx6nqkXCAr2vTg/
+   * Channel: https://www.youtube.com/channel/UC_rQ1n5XXcx6nqkXCAr2vTg/
